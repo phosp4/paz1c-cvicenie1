@@ -2,5 +2,5 @@
 
 Autormi tohto projektu sú:
 
-- Samuel Dobrik
+- Samuel Dobrik (samuel.dobrik@gmail.com)
 - Lukáš Kollárovič
